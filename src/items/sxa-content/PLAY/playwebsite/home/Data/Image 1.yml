@@ -1,0 +1,20 @@
+﻿---
+ID: "58f1c65b-3710-4505-bafb-a53164a1139d"
+Parent: "ba9932db-6402-48eb-b853-084f2cdf73cd"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: /sitecore/content/PLAY/playwebsite/home/Data/Image 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="" alt="Men's Golf Shirt 2" width="385" height="207" stylelabs-content-id="55993" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/55993/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/a6273430308e4ddba2b674b035724daf?v=4121e020" stylelabs-content-type="Image" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c15d619b-290a-45d7-b0a5-ca9ff2beb964"
