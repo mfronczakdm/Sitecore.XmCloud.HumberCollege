@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 import { ComponentProps } from 'lib/component-props';
 
 const DynamicWelcomeMessage = (props: ComponentProps): JSX.Element => {
-  const DEFAULT_MESSAGE = 'Welcome to PLAY! Summit.';
+  const DEFAULT_MESSAGE = 'Welcome to Humber College.';
 
   const [message, SetMessage] = useState('');
   const router = useRouter();

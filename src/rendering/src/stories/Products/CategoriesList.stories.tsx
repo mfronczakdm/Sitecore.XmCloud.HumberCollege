@@ -18,7 +18,7 @@ initializeDiscover({
 
 export const Default = Template.bind({});
 Default.args = {
-  title: 'Welcome to PLAY! SHOP',
+  title: 'Welcome to Humber College',
   subtitle: 'Shop by category:',
   theme: 'blue',
   trendingCategoriesProps: mockDiscoverData.trendingCategoriesProps,
