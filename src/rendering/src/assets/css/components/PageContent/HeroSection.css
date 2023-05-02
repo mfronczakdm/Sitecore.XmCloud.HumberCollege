@@ -14,7 +14,7 @@
     }
 
     .container-content {
-      @apply w-full bg-black-light;
+      @apply w-full bg-blue-lightest;
       @apply md:w-45;
 
       background:
