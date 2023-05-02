@@ -145,7 +145,7 @@
     @apply bg-white-light p-3 border-2 border-white-light;
 
     &-active {
-      @apply border-yellow;
+      @apply border-blue;
     }
 
     .card-name {

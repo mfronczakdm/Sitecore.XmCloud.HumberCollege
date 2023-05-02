@@ -4,7 +4,7 @@
 
   &-logged {
     h3 a {
-      @apply text-yellow underline;
+      @apply text-blue underline;
     }
 
     .account-popup-buttons {
