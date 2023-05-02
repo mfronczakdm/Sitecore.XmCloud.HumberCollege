@@ -1,7 +1,7 @@
 .footer {
   a {
     @apply text-gray-lighter;
-    @apply hover:text-yellow;
+    @apply hover:text-blue;
   }
 
   &-banner {
@@ -25,7 +25,7 @@
         @apply text-sm my-2;
 
         &:first-child {
-          @apply font-bold text-yellow;
+          @apply font-bold text-white;
         }
 
         svg {

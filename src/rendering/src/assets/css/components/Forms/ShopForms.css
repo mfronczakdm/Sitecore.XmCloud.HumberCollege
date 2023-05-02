@@ -27,7 +27,7 @@
       }
 
       &:checked + label::before {
-        @apply border-yellow bg-yellow bg-checkbox-check bg-no-repeat bg-contain bg-center;
+        @apply border-blue bg-blue bg-checkbox-check bg-no-repeat bg-contain bg-center;
       }
     }
 
