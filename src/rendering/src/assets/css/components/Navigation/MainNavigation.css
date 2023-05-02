@@ -57,7 +57,7 @@
 
         .text-menu-item a {
           @apply text-base leading-loose text-white;
-          @apply hover:text-yellow;
+          @apply hover:text-blue-lightest;
           @apply xl:px-3;
         }
 
