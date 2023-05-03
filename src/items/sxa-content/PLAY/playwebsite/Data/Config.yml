@@ -15,10 +15,13 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "32c00ea7-b305-40e4-b9be-e03a92b05ae3"
       Hint: HeaderLogo
       Value: |
-        <image mediaid="" stylelabs-content-id="30940" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/30940/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/83a458a1cb54401cab2308488bbd1031?v=bdb6447b" stylelabs-content-type="Image" alt="PLAY! Summit logo - stacked light grey" height="113" width="274" />
+        <image mediaid="cf10d16e-e903-4303-a580-63d615b14001" />
     - ID: "3971a645-b079-4bc3-9971-bf655b7713fa"
       Hint: Startdate
       Value: 20210909T060000Z
@@ -27,7 +30,7 @@ Languages:
       Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a28d6bf1-4542-4721-adb3-bbad9f48f511"
+      Value: "b6b2cd01-742e-4762-803d-2b96c2c3e43e"
     - ID: "af909783-3a24-4708-b431-192e9b0c98b6"
       Hint: FooterLogo
       Value: |
