@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{E7D5F2E7-A21E-4FD3-A9CF-780CE5D31C49}" />
+    <image mediaid="{82E3D440-5BC7-4770-9CA9-5BEF3B636750}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -44,16 +44,8 @@ SharedFields:
           s:ph="/headless-main/sxa-main/container-1"
           s:ccb="Clear on publish" />
         <r
-          uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}"
-          p:after="r[@uid='{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}']"
-          s:rname="HeroSectionCta"
-          s:ds="{B505E955-F7BB-4A56-A956-A41FB1AE202D}"
-          s:id="{99F2FFE7-28C6-4B88-A52B-BD9B6B44C3C1}"
-          s:par="CacheClearingBehavior=Clear%20on%20publish"
-          s:ph="/headless-main/sxa-main/container-1/jss-hero-section-content-{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}-0" />
-        <r
           uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
-          p:after="r[@uid='{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}']"
+          p:after="r[@uid='{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}']"
           s:rname="ThreeColumnsSection"
           s:ds="{5F6ADEE8-F8E2-4A92-85E3-0C1D0A82FAF1}"
           s:id="{279A5772-ADFA-5260-88E6-AB97D5C4D90A}"
@@ -151,17 +143,6 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{DCECD82D-ECD9-43F7-AD9D-07A90D511204}"
-              p:after="r[@uid='{EB2C8403-F00A-4976-8C26-75224DD8EBD1}']"
-              s:ds="71d297fd-89cc-4e74-a477-e4a4e3669206"
-              s:id="{C8BE3A17-798F-5054-B012-4772CB23AC88}"
-              s:par="FieldNames=&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier=&amp;CSSStyles="
-              s:ph="/headless-main/sxa-main/container-1" />
-            <r
-              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
-              <p:d />
-            </r>
-            <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
               s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
               <p:da
@@ -204,7 +185,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8e9a8c7b-fa3e-415d-ba1e-b50795311dc5"
+      Value: "ffc166aa-68c7-4428-8152-f02572c8c2f1"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Humber College
