@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{82E3D440-5BC7-4770-9CA9-5BEF3B636750}" />
+    <image mediaid="{06C18338-D26B-4410-8CB8-BB9A71CF767B}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -185,7 +185,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ffc166aa-68c7-4428-8152-f02572c8c2f1"
+      Value: "c5130fff-466f-4446-86ec-d927f3d0b7b5"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Humber College
