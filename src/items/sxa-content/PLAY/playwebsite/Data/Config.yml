@@ -21,7 +21,7 @@ Languages:
     - ID: "32c00ea7-b305-40e4-b9be-e03a92b05ae3"
       Hint: HeaderLogo
       Value: |
-        <image mediaid="cf10d16e-e903-4303-a580-63d615b14001" />
+        <image mediaid="" alt="humber-logo.png" width="300" height="60" stylelabs-content-id="65792" thumbnailsrc="https://humber.sitecoresandbox.cloud/api/gateway/65792/thumbnail" src="https://humber.sitecoresandbox.cloud/api/public/content/bebbfc01469142308290e36f9e4a89a7?v=27a5f3aa" stylelabs-content-type="Image" />
     - ID: "3971a645-b079-4bc3-9971-bf655b7713fa"
       Hint: Startdate
       Value: 20210909T060000Z
@@ -30,7 +30,7 @@ Languages:
       Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b6b2cd01-742e-4762-803d-2b96c2c3e43e"
+      Value: "eac16916-1c4e-4f8b-9f86-548ac597271f"
     - ID: "af909783-3a24-4708-b431-192e9b0c98b6"
       Hint: FooterLogo
       Value: |
