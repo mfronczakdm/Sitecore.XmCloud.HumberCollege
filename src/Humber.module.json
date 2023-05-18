@@ -1,0 +1,12 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Humber",
+    "items": {
+        "includes": [
+            {
+                "name": "rendering-root",
+                "path": "/sitecore/layout/Renderings/Project/Humber"
+            }
+        ]
+    }
+}
