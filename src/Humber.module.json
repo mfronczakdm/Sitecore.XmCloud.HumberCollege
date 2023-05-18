@@ -6,6 +6,10 @@
             {
                 "name": "rendering-root",
                 "path": "/sitecore/layout/Renderings/Project/Humber"
+            },
+            {
+                "name": "humber-templates",
+                "path": "/sitecore/templates/Project/Humber"
             }
         ]
     }

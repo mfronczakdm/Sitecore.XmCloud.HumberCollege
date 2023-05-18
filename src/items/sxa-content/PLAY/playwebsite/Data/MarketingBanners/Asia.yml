@@ -1,0 +1,24 @@
+﻿---
+ID: "05a7a4d7-ef68-4834-b1eb-3afca0cbfe41"
+Parent: "4a0919b2-aec9-4321-bb81-62cf31f09b06"
+Template: "c38acee2-2dd2-4c19-af42-eb61b974ec1b"
+Path: /sitecore/content/PLAY/playwebsite/Data/MarketingBanners/Asia
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "969b6bdf-b978-4251-a830-e597f97d8e1b"
+    - ID: "a2336374-212e-481c-836e-4f1fd4550e1a"
+      Hint: BannerText
+      Value: Get a recognized marketing degree from the most connected college in Canada.
+    - ID: "b183c8fd-f13e-410d-b215-10bdaeb0aca4"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" />

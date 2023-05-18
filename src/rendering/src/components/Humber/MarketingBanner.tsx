@@ -1,6 +1,20 @@
+import {
+  Image as JssImage,
+  Link as JssLink,
+  RichText as JssRichText,
+  ImageField,
+  LinkField,
+  RichTextField,
+  Text,
+  TextField
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 
 export type MarketingBannerProps = ComponentProps & {
+    fields: {
+        BannerImage: ImageField,
+        BannerText: TextField
+    }
 }
 
 const MarketingBanner = (props: MarketingBannerProps): JSX.Element => {
@@ -15,10 +29,10 @@ const MarketingBanner = (props: MarketingBannerProps): JSX.Element => {
                                 <div className="slick-track" style={{opacity: 1, width: 2543 }}>
                                     <div className="slick-slide slick-active" data-slick-index="0" aria-hidden="false" style={{width: 2543}}>
                                         <div className="banner-home-wrap-buttons customized no-btn-hover">
-                                            <img src="//humber.ca/assets/images/continuous-professional-learning/CPL_TopBanner_1920x800.jpg" alt="need to make this editable" width="1920" height="800" />
+                                            <JssImage field={props.fields.BannerImage} />
                                             <div className="buttons">
                                                 <div className="inner-wrap">
-                                                    <h1 style={{color: "black"}}>Get a recognized marketing degree from the most connected college in Canada.</h1>
+                                                    <h1 style={{color: "black"}}><Text field={props.fields.BannerText} /></h1>
                                                     <div className="bottom-links-wrp">
                                                         <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}} href="continuous-professional-learning/programs.html">Program Duration<span className="wsnw">&nbsp;</span></a> 
                                                         <a className="btn" style={{backgroundColor: '#004b78', color: '#fff'}}  href="continuous-professional-learning/courses.html">Fees & Financial Resources<span className="wsnw">&nbsp;</span></a> 
