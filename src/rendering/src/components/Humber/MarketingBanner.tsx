@@ -1,10 +1,6 @@
 import {
   Image as JssImage,
-  Link as JssLink,
-  RichText as JssRichText,
   ImageField,
-  LinkField,
-  RichTextField,
   Text,
   TextField
 } from '@sitecore-jss/sitecore-jss-nextjs';
