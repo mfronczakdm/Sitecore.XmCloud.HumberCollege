@@ -92,7 +92,7 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
       </QueryClientProvider>
       {/* END CUSTOMIZATION */}
 
-      <section class="SectionGenericBlockItem-CustomCodeBlock"
+      <section className="SectionGenericBlockItem-CustomCodeBlock"
         dangerouslySetInnerHTML={{ __html:
           `<script>
                 window.GeckoChatSettings = {
