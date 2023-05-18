@@ -1,23 +1,19 @@
-import Link from 'next/link';
-import { ImageField, Image } from '@sitecore-jss/sitecore-jss-nextjs';
-import { ComponentProps } from 'lib/component-props';
-import { IconProp } from '@fortawesome/fontawesome-svg-core';
-
 export type MarketingBannerProps = ComponentProps & {
 }
 
 const MarketingBanner = (props: MarketingBannerProps): JSX.Element => {
+    console.log(props);
     return (
         <section className="slide-in-right-animation SectionGenericBlockItem-SlickSliderBlock section-padding section-padding-none in-view">
             <div className="container-npm">
                 <div className="row no-gutters">
                     <div className="col-lg-12">
                         <div className="slick-slider-block full-width-slider slick-initialized slick-slider" id="slick-slider-block-0" data-slides-to-show="1" data-slides-arrows="1" data-slides-to-scroll="1" data-slides-autoplay="1" data-slides-autoplay-speed="" style={{marginBottom: 0}}>
-                            <div aria-live="polite" className="slick-list draggable" tabindex="0" style={{height: 1060}}>
+                            <div aria-live="polite" className="slick-list draggable" style={{height: 1060}}>
                                 <div className="slick-track" style={{opacity: 1, width: 2543 }}>
                                     <div className="slick-slide slick-active" data-slick-index="0" aria-hidden="false" style={{width: 2543}}>
                                         <div className="banner-home-wrap-buttons customized no-btn-hover">
-                                            <img src="//humber.ca/assets/images/continuous-professional-learning/CPL_TopBanner_1920x800.jpg" width="1920" height="800" />
+                                            <img src="//humber.ca/assets/images/continuous-professional-learning/CPL_TopBanner_1920x800.jpg" alt="need to make this editable" width="1920" height="800" />
                                             <div className="buttons">
                                                 <div className="inner-wrap">
                                                     <h1 style={{color: "black"}}>Get a recognized marketing degree from the most connected college in Canada.</h1>
