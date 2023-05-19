@@ -14,7 +14,6 @@ export type MarketingBannerProps = ComponentProps & {
 }
 
 const MarketingBanner = (props: MarketingBannerProps): JSX.Element => {
-    console.log(props);
     return (
         <section className="slide-in-right-animation SectionGenericBlockItem-SlickSliderBlock section-padding section-padding-none in-view">
             <div className="container-npm">
