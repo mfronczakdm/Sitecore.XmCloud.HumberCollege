@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{2B7AD2D5-2FA7-4BC4-8FE1-1F4AF9154753}" />
+    <image mediaid="{79D91E90-D711-4225-9571-256A91138D81}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -143,6 +143,45 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{F316DDF6-302F-4630-A26E-4004D06D61E1}"
+              p:after="r[@uid='{EB2C8403-F00A-4976-8C26-75224DD8EBD1}']"
+              s:ds="{8E491A38-FB77-4155-A661-3DA1D69EED92}"
+              s:id="{58918590-07A1-43A2-8A2C-301EC444B36F}"
+              s:pt="personalizationTest"
+              s:par="GridParameters=&amp;FieldNames=&amp;Styles=&amp;RenderingIdentifier=&amp;CSSStyles=&amp;DynamicPlaceholderId=1"
+              s:ph="/headless-main/sxa-main/container-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{9180F783-8731-402B-8830-440EAED6130F}"
+                    s:name="1404f298e4b94433a8358920c6c513b9">
+                    <conditions>
+                      <condition
+                        uid="E20291D9C59E40ECBA565807D3BEF8F1"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="1404f298e4b94433a8358920c6c513b9" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{317C3378-EE82-4EFD-A590-CC1C5C9E3AF8}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="05a7a4d7-ef68-4834-b1eb-3afca0cbfe41" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="45E6D9115F0F487AB9B1A708FD41D959"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
               s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
               <p:da
@@ -185,7 +224,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ec5930db-eb93-4761-b27b-52fe594ab7d7"
+      Value: "2e8ec079-b9b2-4c9b-9417-19007017cda2"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Humber College
