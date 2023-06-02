@@ -1,6 +1,87 @@
 [
   {
     "libraryId": "generated",
+    "id": "ipdVrjKDt-",
+    "name": "Advertisements",
+    "description": "Gql Advertisements",
+    "sample": {
+      "data": {
+        "item": {
+          "children": {
+            "results": [
+              {
+                "slogan": {
+                  "value": "READY | STEADY | PLAY!"
+                },
+                "body": {
+                  "value": "<p>Join us in person or online for an amazing event that you will remember forever!</p>"
+                }
+              },
+              {
+                "slogan": {
+                  "value": "READY | STEADY | PLAY!"
+                },
+                "body": {
+                  "value": "<p>loren ipsu mdoler sitamit kadta natakuru hotami tataku</p>"
+                }
+              },
+              {
+                "slogan": {
+                  "value": "READY | STEADY | PLAY!"
+                },
+                "body": {
+                  "value": "<p>Join us in person or online for the fifth annual <strong>PLAY!</strong> Summit.</p>"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "jsonpath": "$",
+    "createdAt": "2023-06-01T17:05:25.17Z",
+    "modifiedAt": "2023-06-01T17:05:25.17Z",
+    "sampledAt": "2023-06-01T17:08:38.192Z",
+    "definition": {
+      "data": {
+        "item": {
+          "children": {
+            "results": [
+              {
+                "slogan": {
+                  "value": "READY | STEADY | PLAY!"
+                },
+                "body": {
+                  "value": "<p>Join us in person or online for an amazing event that you will remember forever!</p>"
+                }
+              },
+              {
+                "slogan": {
+                  "value": "READY | STEADY | PLAY!"
+                },
+                "body": {
+                  "value": "<p>loren ipsu mdoler sitamit kadta natakuru hotami tataku</p>"
+                }
+              },
+              {
+                "slogan": {
+                  "value": "READY | STEADY | PLAY!"
+                },
+                "body": {
+                  "value": "<p>Join us in person or online for the fifth annual <strong>PLAY!</strong> Summit.</p>"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "conflictDefinition": null,
+    "type": "internal",
+    "externalSourceId": "generated"
+  },
+  {
+    "libraryId": "generated",
     "id": "GCLe8xWtl5",
     "name": "Advanced link list",
     "description": "",
